@@ -1,0 +1,6 @@
+{
+  "name": "Ovelo — Refined Men's Essentials",
+  "description": "Timeless, quiet luxury essentials for the modern man. Handcrafted leather bags, wallets, and camel suede footwear.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
